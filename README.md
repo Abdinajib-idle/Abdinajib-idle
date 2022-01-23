@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdinajib-idle
 - 👀 I’m interested in solving problems using my programming skills
-- 🌱 I’m currently learning C++,zzz Java, Python and Js
+- 🌱 I’m currently learning C++, Java, Python and Js
 - 💞️ I’m looking to collaborate on basic open source projects
 - 📫 How to reach me 
 <!---
