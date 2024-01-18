@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdinajib-idle
 - 👀 I’m interested in solving problems using my programming skills
-- 🌱 I’m currently learning C++, Java, Python and Js
+- 🌱 I’m currently learning C, OS and Embedded Systems
 - 📫 How to reach me : 
 Email: ayi1@sfu.ca 
 Linkedin: https://www.linkedin.com/in/ayidle/
